@@ -1,5 +1,5 @@
 {
-  "name": "apiconfig",
+  "name": "nuxt-api-config",
   "version": "1.0.0",
   "description": "Learning create library",
   "main": "index.js",
