@@ -9,4 +9,5 @@ A Nuxt 3-compatible library for fetching data using `useAsyncData`.
 ## Installation
 
 ```bash
-npm install my-api-fetch-library
+npm install nuxt-api-config
+
